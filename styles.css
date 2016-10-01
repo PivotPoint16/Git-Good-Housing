@@ -72,3 +72,6 @@ hr {
 .operator:hover {
   color: grey;
 }
+
+.tableauPlaceholder {
+  padding: 10px 10px 10px 10px;
