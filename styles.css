@@ -18,6 +18,8 @@ hr {
 }
 
 .tableauPlaceholder {
+  padding-top: 0px;
   padding-left: 200px;
   padding-right: 200px;
+  padding-bottom: 0px;
 }
