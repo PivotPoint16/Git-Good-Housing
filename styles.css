@@ -23,3 +23,8 @@ hr {
   padding-right: 200px;
   padding-bottom: 0px;
 }
+
+img {
+  width: 30%;
+  height: auto;
+}
