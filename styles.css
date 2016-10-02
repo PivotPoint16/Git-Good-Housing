@@ -24,7 +24,7 @@ hr {
   padding-bottom: 0px;
 }
 
-img {
+img.center {
   display: block;
   margin: 0 auto;
   width: 30%;
